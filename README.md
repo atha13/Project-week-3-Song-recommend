@@ -1,44 +1,44 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Project-week-3-Song-recommend
-*[Your Name]*
+*Nathalie Hubl*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics Bootcamp - Remote MAR2021*
 
 ## Content
 - [Project Description](#project-description)
 - [Questions & Hypotheses](#questions-hypotheses)
-- [Dataset](#dataset)
-- [Database](#database)
+- [Dataset & Database](#dataset-&-database)
 - [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+In this project I will show you the magic of finding new music with an extraordinary "song recommendator".
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+It was important to start creating a data basis with many songs for the ML to start working. It still needs more and there is room for improvement in the coding.
 
-## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
-
-## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
+## Dataset & Database
+Since we learned this we how to find information online (diff ways), that is what I implemented to create a starting data base with more than 30K songs.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+- Looking for information online (top100 and Spotify)
+- Choosing playlists from Spotify (the larger the better)
+- Exploring and cleaning data
+- Defining how many type song groups would be optimal to start analysing the data
+- Connecting the different data frames through the code
+- Try and error... finding what needed to be corrected
+- Writing the presentation
+- Recording the 3 minutes presentation
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+The organization depended this week along on the course agenda. Different days we learned new processes, and these were implemented afterwards.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
-
+[Repository](https://github.com/atha13/project-week-3-song-recommend.git/)  
+[Slides](https://www.canva.com/design/DAEbJSO0B5g/B9lJziG0dmiMhQMG9y3_Mg/view?utm_campaign=designshare&utm_source=homepage_design_menu/)  
+[Presentation](https://drive.google.com/file/d/1-9CUn2kPgwj-UBICOQj5M6Sfd2zSUbu5/view?usp=sharing)
